@@ -1,6 +1,6 @@
 SOURCETYPE=FORUM
 FORUMURL=
 USERNAME=blueeyes_jeja
-PASSWORD=55160623
+PASSWORD=
 SUFFIX=[(pdf)|(rar)|(r01)|(r02)|(r03)|(r04)|(r05)|(r06)|(r07)|(r08)|(r09)|(r10)|(r11)|(doc)|(excel)|(chm)|(zip)|(7z)|(swf)|(gif)|(torrent)|(txt)|(docx)|(xls)|(xlsx)|(ppt)|(pptx)]
 FROMDATE=2013-10-01
